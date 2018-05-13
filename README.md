@@ -1,60 +1,35 @@
-# Práctica HTML y Hojas de Estilo
+# [IPO-SHOP](https://grialusal.github.io/IPO-shop/) - Creada a partir de [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
 
-Este el es template HTML5 para la práctica de hojas de estilo de la asignatura
-interfaz persona-ordenador del curso 2017-18. 
-El template ha sido creado a partir de [html5boilerplate](https://github.com/h5bp/html5-boilerplate). 
+La web _dummy_ alojada en este repositorio está pensada para que los alumnos de la asignatura Interacción Persona-Ordenador de 3º del Grado en Ingeniería Informática de la Universidad de Salamanca.
+Los alumnos deben utilizarla para integrar [Walkme](http://walkme.com) y guiar usuarios por el sitio web para después evaluar su interacción con el mismo a través del panel de Analytics de Walkme.
 
+Las condiciones completas de la práctica, están en el [Studium](http://studium.usal.es) de la asignatura
 
-## Instrucciones:
-1. Elige una película de lista en Studium.
-2. Realiza el análisis de la película según lo indicado en el enunciado de la práctica disponible en Studium
-y empleando la plantilla disponible [http://vis.usal.es/~interfacesimaginadas/fileadmin/user_upload/modelo_ficha-interfaces_imaginadas.dotx](http://vis.usal.es/~interfacesimaginadas/fileadmin/user_upload/modelo_ficha-interfaces_imaginadas.dotx) 
-3. Una vez completado el análisis, usa y modifica esta plantilla para generar una estructura del contenido.
-  1. **Opción GIT**: Utilizaremos GitHub Classroom para realizar el seguimiento de tu práctica. Para ello emplea el link de invitación que se proporciona en Studium
-  2. **Opción Old School**: Descarga el zip de este repositorio, modifica a tu antojo y sube la práctica en un zip a Studium.
-4. Por último, genera dos estilos diferentes:
-  1. El primero se basará en una guía de estilo ya existente. Puedes utilizar una de las disponibles en [http://styleguides.io/](http://styleguides.io/) o buscar una tú. 
-  2. El segundo será creado completamente por ti a partir de la película en cuestión. Para ello repara en cosas como:
-    * Qué partes de la película te han llamado más la atención y quieres resaltar.
-      * Año de la película.
-      * Perfil del público.
-      * Iconografía existente: Pósters y carteles, sitios web originales o de fans, etc.
-      * ...
+## About Shop Homepage
 
-## Puntos extra por
-1. Emplear estructura HTML5 (nav, aside, section, article...)
-2. Crear diseños responsivos.
-3. Limpieza y claridad de tu código.
-4. Subir tu creación a un sitio online. Por ejemplo puedes utilizar el servicio gratuito [GitHub pages](https://pages.github.com).
+[Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Importante
-1. Justifica tus elecciones de diseño. Has de aportar justificación y explicación del proceso que has seguido
-para llegar a un layout, tipografía, colores, etc...
-2. Argumenta las ventajas y desventajas de la plantilla de diseño elegida y la creada por ti. 
+## Getting Started
 
-## Entrega    
-1. **Opción GIT**
-  * Sube tus cambios a tu repositorio de GitHub Classroom.
-  * Cuando hayas terminado, envía un pull request para que el profesor pueda verlo.
-  * Envía a Studium un documento PDF con tu análisis de la película y otro con el informe de las tareas realizadas en la práctica (min 5 págs.)
-2. **Opción Old School**
-  * Crea dos carpetas, "sitio" y "análisis". Dentro de la primera mete todo el código que hayas creado para esta práctica y su correspondiente informe (min 5 págs). En la segunda, mete el PDF generado a partir de la plantilla doc referenciada al principio de este texto. 
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
+* Fork the repo
 
+## Bugs and Issues
 
-## Recursos de desarrollador
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/).
 
-* [Introducción a HTML en developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Introducción a CSS en developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Aprende CSS Layout](http://learnlayout.com/)
-* [Secciones HTML5 vs HTML4](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#Structure_of_a_document_in_HTML_4)
-* [Cómo trabajar con GitHub](https://guides.github.com/introduction/flow/)
-* [CSS Zen Garden](www.csszengarden.com/tr/espanol/)
-* [Girl Develop It!](https://www.girldevelopit.com/materials/html-intro)
-* [Tutorial: Cómo subir tu sitio a GH Pages](http://docsbeta.pinegrow.com/host-html-website-github-pages-free/)
-* [Guías de estilo](http://styleguides.io/)
+## Creator
 
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-## License
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-The code is available under the [MIT license](LICENSE.txt).
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
+Modified by IPO USAL teachers for teaching purposes
