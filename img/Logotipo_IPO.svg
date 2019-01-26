@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="36.375042mm"
-   height="39.4161mm"
-   viewBox="0 0 36.375042 39.4161"
+   width="300"
+   height="150"
+   viewBox="0 0 79.375003 39.687502"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Logotipo.svg"
+   sodipodi:docname="Logotipo_IPO.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\pablo\OneDrive\Clase\Tercer curso\Segundo cuatrimestre\Interacción persona ordenador\Prácticas\Práctica final\Imágenes\Logotipo.png"
    inkscape:export-xdpi="96"
@@ -88,22 +88,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="1.23155"
-     inkscape:cy="58.621085"
+     inkscape:cx="-78.589879"
+     inkscape:cy="58.621073"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:measure-start="482.853,505.329"
      inkscape:measure-end="460.882,492.197"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3840"
+     inkscape:window-height="2019"
+     inkscape:window-x="-14"
+     inkscape:window-y="-14"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -120,9 +123,9 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-87.16304,-162.83173)">
+     transform="translate(-87.16304,-162.56032)">
     <g
-       transform="translate(89.209343,161.13474)"
+       transform="translate(113.02189,161.13474)"
        id="g4856">
       <rect
          style="fill:#cdbf92;fill-opacity:1;stroke:#000000;stroke-width:0.2377529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -145,16 +148,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="86.728958"
+       x="110.54146"
        y="191.22807"
        id="text7551"><tspan
          sodipodi:role="line"
          id="tspan7549"
-         x="86.728958"
+         x="110.54146"
          y="191.22807"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';stroke-width:0.26458332">Home</tspan><tspan
          sodipodi:role="line"
-         x="86.728958"
+         x="110.54146"
          y="199.664"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';stroke-width:0.26458332"
          id="tspan7553">designer</tspan></text>
