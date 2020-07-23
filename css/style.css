@@ -781,7 +781,7 @@ a:hover {
 }
 
 .work-img {
-  display: block;
+  display: flex;
   overflow: hidden;
 }
 
