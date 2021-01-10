@@ -14,3 +14,9 @@
 .retrato {
     margin: 10px;
 }
+
+.nombre {
+    font-size: 25px;
+    font-weight: 500;
+    color: #1e1e1e;
+}
