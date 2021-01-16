@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="150"
+   viewBox="0 0 79.375003 39.687502"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Logotipo_IPO.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\pablo\OneDrive\Clase\Tercer curso\Segundo cuatrimestre\Interacción persona ordenador\Prácticas\Práctica final\Imágenes\Logotipo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient7534"
+       inkscape:collect="always">
+      <stop
+         id="stop7530"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop7532"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.70707071" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect7458"
+       is_visible="true"
+       offset_points="2,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5720">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5716" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5718" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5720"
+       id="radialGradient5722"
+       cx="43.790657"
+       cy="20.830063"
+       fx="43.790657"
+       fy="20.830063"
+       r="7.2914977"
+       gradientTransform="matrix(1,0,0,0.5715545,0,8.9245469)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7534"
+       id="linearGradient7522"
+       x1="38.459576"
+       y1="19.885101"
+       x2="53.043152"
+       y2="20.00322"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3230906,0,0,1.3230906,-46.970516,-13.268042)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-78.589879"
+     inkscape:cy="58.621073"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="482.853,505.329"
+     inkscape:measure-end="460.882,492.197"
+     inkscape:window-width="3840"
+     inkscape:window-height="2019"
+     inkscape:window-x="-14"
+     inkscape:window-y="-14"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.16304,-162.56032)">
+    <g
+       transform="translate(113.02189,161.13474)"
+       id="g4856">
+      <rect
+         style="fill:#cdbf92;fill-opacity:1;stroke:#000000;stroke-width:0.2377529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7460"
+         width="2.6458333"
+         height="20.042181"
+         x="7.9106708"
+         y="4.8873005" />
+      <path
+         style="fill:url(#linearGradient7522);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35061899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 13.56304,7.9500963 4.301284,18.536912 h 18.522823 z m -0.03145,3.2087257 4.486612,5.374088 H 9.044978 Z"
+         id="path4882"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#7b5934;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.2625995,1.8294885 A 1.9423818,1.2435368 0 0 0 7.3702069,2.7989377 H 4.6504781 V 5.2556365 H 14.147054 V 2.7989377 H 11.154989 A 1.9423818,1.2435368 0 0 0 9.2625995,1.8294885 Z"
+         id="rect7536"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.54146"
+       y="191.22807"
+       id="text7551"><tspan
+         sodipodi:role="line"
+         id="tspan7549"
+         x="110.54146"
+         y="191.22807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';stroke-width:0.26458332">Home</tspan><tspan
+         sodipodi:role="line"
+         x="110.54146"
+         y="199.664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';stroke-width:0.26458332"
+         id="tspan7553">designer</tspan></text>
+  </g>
+</svg>
