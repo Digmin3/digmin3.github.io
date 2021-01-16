@@ -12,7 +12,18 @@
 }
 
 .retrato {
-    margin: 10px;
+    //margin: 10px;
+}
+
+.retrato-img {
+    margin-top: 7.5px;
+    border: 2.5px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 7px 2px #cbcbcb;
+    max-width: 160px;
+    max-height: 160px;
+    width: 100%;
+    height: auto;
 }
 
 .nombre {
